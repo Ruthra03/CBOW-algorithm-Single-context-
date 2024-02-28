@@ -1,1 +1,1 @@
-# CBOW-algorithm-Single-context-
+Continuous Bag of Words (CBOW) is a word embedding algorithm that learns vector representations for words. It uses two sets of weights to predict a target word from its context. The first set connects input words to a hidden layer, while the second connects the hidden layer to the output. The model iteratively refines these weights using training data, adjusting them to minimize prediction errors. CBOW focuses on predicting a word based on its surrounding context, providing meaningful vector representations for words in a neural network.
